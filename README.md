@@ -24,12 +24,12 @@ img
 
 ### Grape's Accuracy
 
-![download](https://github.com/user-attachments/assets/761a69f6-5c6d-442a-a28d-690094c7937d)
+![download](https://github.com/user-attachments/assets/761a69f6-5c6d-442a-a28d-690094c7937d) 
 ![download (1)](https://github.com/user-attachments/assets/7295ef3b-947c-4a99-bde1-8ffec39f1abc)
 
 ### Tomato's Accuracy
 
-img
+![acctomato](https://github.com/user-attachments/assets/1793df44-c8e5-467d-83a9-4c4981af3ae2)
 
 
 ## 🛠️ How to Use
