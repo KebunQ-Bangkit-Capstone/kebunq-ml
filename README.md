@@ -24,8 +24,7 @@ img
 
 ### Grape's Accuracy
 
-![download](https://github.com/user-attachments/assets/761a69f6-5c6d-442a-a28d-690094c7937d) 
-![download (1)](https://github.com/user-attachments/assets/7295ef3b-947c-4a99-bde1-8ffec39f1abc)
+![Screenshot 2024-12-13 133812](https://github.com/user-attachments/assets/51639d13-baf6-4adc-b80c-276500947437)
 
 ### Tomato's Accuracy
 
