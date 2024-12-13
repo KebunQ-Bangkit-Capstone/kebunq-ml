@@ -13,3 +13,7 @@ Dataset Size: ~8,000 labeled images <br>
 Accuracy: 92-97% (average across classes) <br>
 Input Format: JPEG, JPG, PNG <br>
 Output: Disease classification and treatment recommendations <br>
+
+Our Dataset: [Dataset](https://drive.google.com/drive/folders/1ROh6v3-WBDmtzjOfKJ15Is-fIlGPtwYj?usp=sharing)
+
+## test
