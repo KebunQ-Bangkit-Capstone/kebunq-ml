@@ -20,7 +20,7 @@ Our Dataset: [Dataset](https://drive.google.com/drive/folders/1ROh6v3-WBDmtzjOfK
 
 ### Cucumber's Accuracy
 
-img
+![acctomato](https://github.com/user-attachments/assets/1793df44-c8e5-467d-83a9-4c4981af3ae2)
 
 ### Grape's Accuracy
 
@@ -28,8 +28,7 @@ img
 
 ### Tomato's Accuracy
 
-![acctomato](https://github.com/user-attachments/assets/1793df44-c8e5-467d-83a9-4c4981af3ae2)
-
+img
 
 ## 🛠️ How to Use
 
