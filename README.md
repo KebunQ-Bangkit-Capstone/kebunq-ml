@@ -35,6 +35,10 @@ img
 
 ### 1. Clone the repository
 Clone this github repository or download zip and extract it
+```bash
+git clone https://github.com/KebunQ-Bangkit-Capstone/kebunq-ml.git
+cd KebunQ
+```
 
 ### 2. Open the ipynb file
 Open the ipynb file contained in each folder using Local / Google Colaboraty
