@@ -9,7 +9,7 @@ The AI-powered model leverages Convolutional Neural Networks (CNN) for image rec
 
 Model Highlights:
 Framework: TensorFlow <br>
-Dataset Size: ~8,000 labeled images
-Accuracy: 92-97% (average across classes)
-Input Format: JPEG, JPG, PNG
-Output: Disease classification and treatment recommendations
+Dataset Size: ~8,000 labeled images <br>
+Accuracy: 92-97% (average across classes) <br>
+Input Format: JPEG, JPG, PNG <br>
+Output: Disease classification and treatment recommendations <br>
