@@ -46,4 +46,8 @@ Open the ipynb file contained in each folder using Local / Google Colaboraty
 ### 3. Download the Dataset
 Download the Dataset [Here](https://drive.google.com/drive/folders/1ROh6v3-WBDmtzjOfKJ15Is-fIlGPtwYj?usp=sharing)
 
-### 4. 
+### 4. Check and Update Dataset Path
+Ensure the dataset path in the notebook matches the location of the dataset in your Google Drive.
+
+### 5. Run the Notebook and Save the Model
+The model will be trained using the dataset and once the process complete, model will saved as an .h5 file format.
