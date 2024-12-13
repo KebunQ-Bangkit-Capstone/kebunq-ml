@@ -8,7 +8,7 @@ This project addresses the challenges faced by gardeners in identifying plant di
 The AI-powered model leverages Convolutional Neural Networks (CNN) for image recognition, trained on a curated dataset of diseased and healthy plants.
 
 Model Highlights:
-Framework: TensorFlow
+Framework: TensorFlow <br>
 Dataset Size: ~8,000 labeled images
 Accuracy: 92-97% (average across classes)
 Input Format: JPEG, JPG, PNG
