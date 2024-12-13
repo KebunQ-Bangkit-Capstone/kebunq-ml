@@ -27,3 +27,19 @@ img
 img
 
 ### Tomato's Accuracy
+
+img
+
+
+## 🛠️ How to Use
+
+### 1. Clone the repository
+Clone this github repository or download zip and extract it
+
+### 2. Open the ipynb file
+Open the ipynb file contained in each folder using Local / Google Colaboraty
+
+### 3. Download the Dataset
+Download the Dataset [Here](https://drive.google.com/drive/folders/1ROh6v3-WBDmtzjOfKJ15Is-fIlGPtwYj?usp=sharing)
+
+### 4. 
