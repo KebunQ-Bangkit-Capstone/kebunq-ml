@@ -28,7 +28,7 @@ Our Dataset: [Dataset](https://drive.google.com/drive/folders/1ROh6v3-WBDmtzjOfK
 
 ### Tomato's Accuracy
 
-img
+![eecee](https://github.com/user-attachments/assets/51abe2d4-9672-4c31-9edd-f6a39b017e8a)
 
 ## 🛠️ How to Use
 
