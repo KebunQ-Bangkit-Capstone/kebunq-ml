@@ -16,4 +16,14 @@ Output: Disease classification and treatment recommendations <br>
 
 Our Dataset: [Dataset](https://drive.google.com/drive/folders/1ROh6v3-WBDmtzjOfKJ15Is-fIlGPtwYj?usp=sharing)
 
-## test
+## 📈 Results
+
+### Cucumber's Accuracy
+
+img
+
+### Grape's Accuracy
+
+img
+
+### Tomato's Accuracy
